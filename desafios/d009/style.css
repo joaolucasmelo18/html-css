@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Tommy';
+    src: url(fonts/MADE\ TOMMY\ Bold_PERSONAL\ USE.otf);
+}
+body{
+    background-color: rgb(32, 31, 31);
+    color: white;
+    text-align: center;
+    font-family: 'Tommy';
+    height: 100px;
+}

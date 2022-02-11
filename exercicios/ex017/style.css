@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    /*Medidas Absolutas
+    cm, mm, in, px, pt, pc
+    
+    Medidas Relativas
+    em, ex, rem, vw, vh, %
+    
+    W3C recomenda px e em
+    1em geralmente = 16px*/
+
+    /* shorthand font 
+    font-style -> font-weight -> font-size -> font-family
+
+    font-size: 1em;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace*/
+    
+    font: italic bolder 3em 'Courier New', sans-serif; 
+
+}
